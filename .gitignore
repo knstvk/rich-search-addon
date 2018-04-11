@@ -1,0 +1,13 @@
+gradle
+.gradle
+.studio
+.idea
+*.ipr
+*.iml
+*.iws
+build/*
+deploy/*
+classes/*
+modules/*/build/*
+out
+test-run

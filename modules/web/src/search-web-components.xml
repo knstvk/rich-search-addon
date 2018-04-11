@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<components xmlns="http://schemas.haulmont.com/cuba/components.xsd">
+    <component>
+        <name>richSearch</name>
+        <tag>richSearch</tag>
+        <componentLoader>com.haulmont.addon.search.gui.xml.layouts.loaders.RichSearchLoader</componentLoader>
+        <class>com.haulmont.addon.search.web.gui.components.WebRichSearch</class>
+    </component>
+</components>
